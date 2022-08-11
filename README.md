@@ -1,4 +1,4 @@
-## Oiii eu sou a Pablo riquelme,Front-end developer!
+## Olá, eu sou a Pablo riquelme,Front-end developer!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmexs&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmexs&layout=compact&langs_count=7&theme=dracula"/>
