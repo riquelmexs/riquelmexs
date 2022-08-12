@@ -1,4 +1,4 @@
-## Olá, eu sou a Pablo riquelme,Front-end developer!
+## Olá, eu sou a Pablo riquelme Front-end developer!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmexs&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmexs&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,7 +18,7 @@
  
 <div> 
  
-  <a href = "mailto:riquelmexxx506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:https://www.linkedin.com/psettings/email?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BSyWU38VFQNeoPKk8zTpjww%3D%3D"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/pablo-riquelme-santana-de-souza-226671225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
