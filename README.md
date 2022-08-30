@@ -14,8 +14,7 @@
  
 </div>
   
-  ##
- 
+   
 <div> 
  
   <a href = "mailto:https://www.linkedin.com/psettings/email?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BSyWU38VFQNeoPKk8zTpjww%3D%3D"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
