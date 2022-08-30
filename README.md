@@ -19,7 +19,7 @@
   <a href="http://www.linkedin.com/in/pablo-riquelme-santana-de-souza-226671225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-  ![snake animation]
+  ![Snake animation](/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
