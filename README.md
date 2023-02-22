@@ -1,4 +1,4 @@
-## Olá, eu sou a Pablo riquelme Front-end developer!
+## Olá, eu sou a Pablo riquelme Full-Stack developer!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmexs&show_icons=true&theme=dark"/>
   
