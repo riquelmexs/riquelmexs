@@ -1,8 +1,8 @@
 ## Olá, eu sou a Pablo riquelme Full-Stack developer!
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmexs&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=riquelmexs&show_icons=true&theme=dark"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmexs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmexs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
