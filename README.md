@@ -1,4 +1,4 @@
-## Olá, eu sou a Pablo riquelme Full-Stack developer!
+## Olá, eu sou Pablo riquelme Full-Stack developer!
 
 <div style="display: inline_block"><br>
   
