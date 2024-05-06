@@ -1,6 +1,6 @@
 
 
-## Olá, eu sou Pablo riquelme Full-Stack developer!
+## Olá, eu sou Pablo riquelme Full-Stack developer! 💻🌐
 
   
 ![SocialCode](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
