@@ -1,6 +1,6 @@
 
 
-### Olá, eu sou Pablo riquelme  **`Análista de Dados
+### Olá, eu sou Pablo riquelme  **`Análista de Dados`**
   
 
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pablo-riquelme-ss/)" target="_blank"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
