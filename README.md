@@ -17,9 +17,10 @@
 <div style="display: inline_block"><br>
    <img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=devto&theme=light&perline=15" alt="My Skills"/>
     <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
    <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-   <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+   
   
    
   
