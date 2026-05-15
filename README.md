@@ -1,32 +1,47 @@
+<h1 align="center"> Pablo Riquelme Ss</h1>
 
+<p align="center">
+📊 Data Analyst • 🚀 Data Engineering Student
+</p>
 
-### Olá, eu sou Pablo Riquelme Ss  |  **`Análise de Dados`**
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pablo-riquelme-ss/)" target="_blank"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmexxx506@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-0A0A0A?style=for-the-badge"/>
+</p>
 
+---
 
+### 📌 About Me
 
+📊 Focused on Data Analytics & Data Engineering  
+⚙️ Building ETL pipelines and data solutions  
+☁️ Studying Cloud Computing for Data  
+📈 Creating dashboards and analytical projects  
 
-  ### Tecnologias que eu uso:
-  ---
-  
-<div style="display: inline_block"><br>
-   <img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=devto&theme=light&perline=15" alt="My Skills"/>
-    <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-   <img align="left" alt="jupyter" title="jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-   
-  
-   
-  
-  
- 
+---
 
-    
+### 📫 Contact
 
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/pablo-riquelme-ss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:https://mail.google.com/mail/u/3/#inbox">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
