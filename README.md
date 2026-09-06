@@ -1,8 +1,10 @@
-<h1 align="center">Pablo Riquelme Ss 🌐</h1>
+ <h1 align="center">
+   Pablo Riquelme Santana de Souza 🌐 
+ </h1>
 
-<p align="center">
+<h2 align="center">
 📊 Data Analyst • 🚀 Data Engineer
-</p>
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,aws,azure" />
