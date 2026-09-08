@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,azure" />
 </p>
 
 <p align="center">
